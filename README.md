@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @c4pslock
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning WordPress theme development.
-- 💞️ I’m looking to collaborate on web and app creation.
 - 📫 How to reach me - you don't.
 
 <!---
